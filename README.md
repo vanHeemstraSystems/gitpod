@@ -14,4 +14,6 @@ Once opened in GitPod, you can develop the code of that repository at your heart
 
 https://vanheemstrasyste-gitpod-s50ey7l7dyj.ws-eu96.gitpod.io/
 
+P.S. When opened, a Welcome page will allow you to learn all about GitPod.
+
 Happy coding in the Cloud!
