@@ -34,4 +34,4 @@ To learn more about Gitpod, how to customize it and about best practices, please
 
 ### Community
 
-Come [join us in our chat](](https://gitpod.io/chat) to learn from others and share what you're up to.
+Come [join us in our chat](https://gitpod.io/chat) to learn from others and share what you're up to.
