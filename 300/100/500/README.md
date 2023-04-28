@@ -10,4 +10,4 @@ Note: To get back to the list of files in your project, click the "Explorer" ico
 
 ## Documentation
 
-To learn more about ports and how to configure them, please refer to the documentation.
+To learn more about ports and how to configure them, please [refer to the documentation](https://www.gitpod.io/docs/config-ports).
